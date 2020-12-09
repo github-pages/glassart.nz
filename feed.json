@@ -137,13 +137,15 @@
             "id": "https://glassart.nz/contact.html",
             "url": "https://glassart.nz/contact.html",
             "title": "Contact",
+            "summary": "The preferred way of contacting would be via email at ludek@glassart.nz. In case you need to talk to me urgently&hellip;",
+            "content_html": "<p class=\"align-center\">The preferred way of contacting would be via email at <a href=\"mailto:ludek@glassart.nz\">ludek@glassart.nz</a>.</p>\n<p class=\"align-center\">In case you need to talk to me urgently you can try my cell <a href=\"tel:+64211240402\" title=\"Cell number\" rel=\"nofollow\">021 1240402</a> or our landline <a href=\"tel:+6402825578851\" title=\"Landline number\" rel=\"nofollow\">028 2557 8851</a>.</p>\n<p class=\"align-center\">You are welcome to visit me at my workshop in Far North. I'm just 5kms away from Mangonui, a little town in beautiful Doubtless Bay (please don't confuse it with Mt Manganui in Tauranga :-) Fell free to send me an email and I'll send you back my address.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://glassart.nz/media/posts/10/ludek-1.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://glassart.nz/media/posts/10/responsive/ludek-1-xs.jpg 300w ,https://glassart.nz/media/posts/10/responsive/ludek-1-sm.jpg 480w ,https://glassart.nz/media/posts/10/responsive/ludek-1-md.jpg 768w\"  alt=\"Me at my first New Zealand exhibition at Kaan Zamaan gallery in Kerikeri\" width=\"1286\" height=\"614\"></figure>",
             "author": {
                 "name": "Ludek Adamek"
             },
             "tags": [
             ],
             "date_published": "1950-12-09T15:03:00+12:00",
-            "date_modified": "2020-12-09T20:10:34+13:00"
+            "date_modified": "2020-12-10T12:14:10+13:00"
         }
     ]
 }
