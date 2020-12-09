@@ -39,9 +39,9 @@
         {
             "id": "https://glassart.nz/latest-works.html",
             "url": "https://glassart.nz/latest-works.html",
-            "title": "Latest works",
+            "title": "Recent works",
             "summary": "What I've been working on lately",
-            "content_html": "<p>What I've been working on lately</p>",
+            "content_html": "<div>What I've been working on lately</div>",
             "image": "https://glassart.nz/media/posts/9/IMG_0680.JPG",
             "author": {
                 "name": "Ludek Adamek"
@@ -49,7 +49,7 @@
             "tags": [
             ],
             "date_published": "2020-12-09T14:56:29+13:00",
-            "date_modified": "2020-12-09T15:10:53+13:00"
+            "date_modified": "2020-12-09T16:51:13+13:00"
         },
         {
             "id": "https://glassart.nz/glassart.html",
