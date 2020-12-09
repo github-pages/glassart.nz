@@ -1615,7 +1615,7 @@ textarea {
           justify-content: center;
 }
 .l-grid--6 .c-card:nth-child(2) .c-card__text {
-  display: none;
+  display: nodne;
 }
 .l-grid--6 .c-card:nth-child(1), .l-grid--6 .c-card:nth-child(3) {
   -ms-flex-item-align: start;
