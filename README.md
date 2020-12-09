@@ -1,1 +1,0 @@
-# glassart.nz
