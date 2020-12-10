@@ -146,7 +146,7 @@ body {
   font-family: var(--body-font);
   font-weight: var(--font-weight-normal);
   line-height: var(--line-height);
-  padding-top: calc(var(--header-height) + 3rem);
+  padding-top: calc(var(--header-height) + 1rem);
   overflow-x: hidden;
   -ms-scroll-chaining: none;
       overscroll-behavior: none;

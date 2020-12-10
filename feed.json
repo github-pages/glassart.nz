@@ -40,6 +40,22 @@
             "date_modified": "2020-12-10T14:43:00+13:00"
         },
         {
+            "id": "https://glassart.nz/kings-theatre-creative.html",
+            "url": "https://glassart.nz/kings-theatre-creative.html",
+            "title": "Kings Theatre Creative",
+            "summary": "<div>My recent works are now on display in the Kings Theatre Creative gallery in the Kawakawa, Bay of islands.</div>\n",
+            "content_html": "<div>My recent works are now on display in the Kings Theatre Creative gallery in the Kawakawa, Bay of islands.</div>\n\n<p>The exhibition runs from 27th November till 20th December - you can find more about the event on <a href=\"https://www.facebook.com/events/1359667194393925/\" target=\"_blank\" rel=\"noopener noreferrer\">facebook</a></p>\n<p class=\"msg msg--info\">Three Master artists explore their traditional practice and culture in sculpture, glass and paint. Ludek Adamek (Czech Republic), Anna Klekottka (Germany), and Beatrice Bourhis (Bulgaria) deliver a unique and diverse show, inspiring the imagination and a push to take old traditions to new places.<br>Showing 27 Nov - 20 Dec.<br>Open 5 Days Wed - Sun 10am - 3pm.<br>Kings Theatre Creative, 80 Gillies St, Kawakawa.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://glassart.nz/media/posts/13/kawakawa-exhibition.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://glassart.nz/media/posts/13/responsive/kawakawa-exhibition-xs.jpg 300w ,https://glassart.nz/media/posts/13/responsive/kawakawa-exhibition-sm.jpg 480w ,https://glassart.nz/media/posts/13/responsive/kawakawa-exhibition-md.jpg 768w\"  alt=\"Kawakawa exhibition\" width=\"960\" height=\"720\"></figure>",
+            "image": "https://glassart.nz/media/posts/13/kawakawa-exhibition-2.jpg",
+            "author": {
+                "name": "Ludek Adamek"
+            },
+            "tags": [
+                   "Exhibitions"
+            ],
+            "date_published": "2020-12-10T14:30:01+13:00",
+            "date_modified": "2020-12-10T14:30:52+13:00"
+        },
+        {
             "id": "https://glassart.nz/home-decor.html",
             "url": "https://glassart.nz/home-decor.html",
             "title": "Home Decor",
