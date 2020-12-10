@@ -805,7 +805,7 @@ textarea {
   -ms-grid-row: 1;
   -ms-grid-column: 3;
   grid-area: logo;
-  color: var(--dark) !important;
+  -color: var(--dark) !important;
   font-family: var(--logo-font);
   font-weight: var(--font-weight-bold);
   font-size: 1.423828125rem;
